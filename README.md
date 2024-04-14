@@ -5,7 +5,7 @@ Language Used- Python
 
 Libraries Used:
 1) Selenium (Automation)
-2) Pstesseract (Solve Captcha)
+2) Pytesseract (Solve Captcha)
 3) Request
 4) Pandas(For analysis purposes)
 5) Numpy 
