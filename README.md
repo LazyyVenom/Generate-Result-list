@@ -24,7 +24,7 @@ Before running the project on your system, make sure you have the following libr
 1. Clone the repository to your local machine.
 2. Install the required libraries using pip (if not already installed).
 3. Ensure you have the necessary drivers (e.g., chromedriver) for Selenium automation.
-4. Run the Python script `generate_result_list.py`.
+4. Run the Python script `Resultgen.py`.
 5. Follow the on-screen prompts to retrieve and analyze the student results.
 
 ## How it Works
